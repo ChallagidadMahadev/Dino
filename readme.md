@@ -23,3 +23,9 @@
 ```bash
   $ npm run dev
 ```
+# Dino-Game
+# Dino-Game
+# Dino-Game
+# Dino-Game
+# Dino-Game
+# Dino-Game
